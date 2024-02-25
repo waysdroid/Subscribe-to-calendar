@@ -8,3 +8,4 @@ https://objects.githubusercontent.com/github-production-release-asset-2e65be/763
 
 2364班课程表订阅地址：
 
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/763132319/e5588117-7679-49f3-a8a3-fc2e3dd81ae9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240225T165728Z&X-Amz-Expires=300&X-Amz-Signature=13d443668ec43d26e211dff5f049e410e4f39215080aa4e2c31f0b53512cef63&X-Amz-SignedHeaders=host&actor_id=153904242&key_id=0&repo_id=763132319&response-content-disposition=attachment%3B%20filename%3D2364.ics&response-content-type=application%2Foctet-stream
